@@ -1,0 +1,5 @@
+.env
+exported_data/
+__pycache__/
+*.pyc
+*.pyo
